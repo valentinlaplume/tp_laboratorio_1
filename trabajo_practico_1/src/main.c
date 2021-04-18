@@ -26,13 +26,13 @@ int main (void)
 	do
 	{
 		if(utn_getNumero(&menu, "\n	-- Calculadora --"
-								"\nMenu:  "
-								"\n1- Ingresar 1er operando."
-								"\n2- Ingresar 2do operando."
-								"\n3- Calcular todas  las operaciones."
-								"\n4- Ver resultados."
-								"\n5- Salir."
-								"\nOpcion: ", "Opcion invalida.\n", 1, 5, 2)==0)
+					"\nMenu:  "
+					"\n1- Ingresar 1er operando."
+					"\n2- Ingresar 2do operando."
+					"\n3- Calcular todas  las operaciones."
+					"\n4- Ver resultados."
+					"\n5- Salir."
+					"\nOpcion: ", "Opcion invalida.\n", 1, 5, 2)==0)
 		{
 			switch(menu)
 			{
