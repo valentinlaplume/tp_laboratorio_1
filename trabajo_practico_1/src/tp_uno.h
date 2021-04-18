@@ -1,8 +1,6 @@
 #ifndef TP_UNO_H_
 #define TP_UNO_H_
 
-#define UN_SI 3
-
 int sumar(float *resultadoSuma, float numero_A, float numero_B);
 int restar(float *resultadoResta, float numero_A, float numero_B);
 int multiplicar(float *resultadoMultiplicacion, float numero_A, float numero_B);
