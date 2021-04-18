@@ -23,6 +23,7 @@ int main (void)
 		  resultadoFactorialA, resultadoFactorialB;
 	// Variables declaradas para asegurarme que mostrar al usuario.
 	int flagUno, flagDos, flagTres, flagResultado = 0;
+	
 	do
 	{
 		if(utn_getNumero(&menu, "\n	-- Calculadora --"
