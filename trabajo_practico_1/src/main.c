@@ -17,10 +17,10 @@ int main (void)
 	float numeroA,numeroB = 0;
 	// Variables declaradas para alojar el resultado de las operaciones.
 	float resultadoSuma,
-		  resultadoResta,
-		  resultadoMultiplicacion,
-		  resultadoDivision,
-		  resultadoFactorialA, resultadoFactorialB;
+		resultadoResta,
+		resultadoMultiplicacion,
+		resultadoDivision,
+		resultadoFactorialA, resultadoFactorialB;
 	// Variables declaradas para asegurarme que mostrar al usuario.
 	int flagUno, flagDos, flagTres, flagResultado = 0;
 	
