@@ -34,9 +34,9 @@ int main(void)
 	   !addEmployee(listEmployees, QUANTITY_EMPLOYEES, 5, "Susana", "Gimenez", 300000, 1) &&
 	   !addEmployee(listEmployees, QUANTITY_EMPLOYEES, 6, "Flavio", "Mendoza", 25, 1) &&
 	   !addEmployee(listEmployees, QUANTITY_EMPLOYEES, 7, "Mauricio", "Macri", 350000, 0))
-		{
-			flagEmployee++;
-		}
+	{
+		flagEmployee++;
+	}
 	do
 	{
 

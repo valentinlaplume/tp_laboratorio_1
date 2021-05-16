@@ -60,7 +60,6 @@ int addEmployee(Employee list[], int len, int id, char* name, char* lastName, fl
 		buffer.isEmpty = FALSE;
 		list[indexEmpty] = buffer;
 		retorno = 0;
-		//printOneEmployee((list+indexEmpty));
 	}
 	return retorno;
 }
